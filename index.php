@@ -26,15 +26,9 @@
 							<li>Not playing in the snow</li>
 						</ul>
 				</ol>
-		<table>
-		<thead>
-			<th colspan="3">Picture Table of Ninjas</th>
-			<tr>
-				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNAIY3NaRrFl4HrVD6wt5LxpLqVjPD0ja1F6XYyEugjjxMUOm" /></td>
-				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNAIY3NaRrFl4HrVD6wt5LxpLqVjPD0ja1F6XYyEugjjxMUOm" /></td>
-				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNAIY3NaRrFl4HrVD6wt5LxpLqVjPD0ja1F6XYyEugjjxMUOm" /></td>
-			</tr>
-		</thead>
-		</table>
+		<figure>
+			<img src="images/donatra.jpg" alt="[Commander Donatra]" />
+			<figcaption><strong>My Love &amp; Hero: Donatra</strong></figcaption>
+		</figure>
 		</body>
 </html>

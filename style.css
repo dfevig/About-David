@@ -1,0 +1,20 @@
+span {
+	font-family: Impact;
+	font-style: em;
+}
+
+table, td {
+	border: 1px #ff0000 solid;
+}
+
+th {
+	font-family: cursive;
+}
+
+h2 {
+	font-family: monospace;
+}
+
+p {
+	text-align: center;
+}
